@@ -72,9 +72,9 @@ Remaining bugs are considered side plots.
 ## Departments
 
 <p align="center">
-  <img src="assets/iznocorp-department-1.png" width="30%">
-  <img src="assets/iznocorp-department-2.png" width="30%">
-  <img src="assets/iznocorp-department-3.png" width="30%">
+  <img src="assets/iznocorp-department-1.png" width="33%">
+  <img src="assets/iznocorp-department-2.png" width="33%">
+  <img src="assets/iznocorp-department-3.png" width="33%">
 </p>
 
 <p align="center">
