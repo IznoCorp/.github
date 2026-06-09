@@ -6,13 +6,19 @@ Welcome to **IznoCorp**, a self-proclaimed technological empire, a laboratory of
 
 Under the visionary, megalomaniac, and perfectly self-assumed leadership of **Iznogoudatall**, IznoCorp develops tools, libraries, prototypes, and other software contraptions designed to conquer the world of code — or at least solve two or three annoying problems.
 
+![iznocorp-section-divider](assets/iznocorp-section-divider.png)
+
 ## Grand Ambition
 
 IznoCorp has only one goal:
 
+![iznocorp-section-divider](assets/iznocorp-section-divider.png)
+
 **To become Caliph instead of the Caliph.**
 
 Until then, the organization publishes code.
+
+![iznocorp-section-divider](assets/iznocorp-section-divider.png)
 
 ## Main Activities
 
@@ -24,6 +30,8 @@ The workshops of IznoCorp mainly work on:
 - automation scripts more reliable than the usual henchmen;
 - experimental prototypes with legally questionable outcomes;
 - simple solutions to unnecessarily complicated problems.
+
+![iznocorp-section-divider](assets/iznocorp-section-divider.png)
 
 ## The IznoCorp™ Method
 
@@ -37,6 +45,8 @@ Every project follows the great principles of the house:
 6. Commit.
 7. Repeat until complete domination.
 
+![iznocorp-section-divider](assets/iznocorp-section-divider.png)
+
 ## Imperial Quality
 
 The code published here tries, whenever possible, to be:
@@ -48,6 +58,8 @@ The code published here tries, whenever possible, to be:
 - not too cursed.
 
 Remaining bugs are considered side plots.
+
+![iznocorp-section-divider](assets/iznocorp-section-divider.png)
 
 ## Departments
 
@@ -63,9 +75,13 @@ Scripts, automations, commands, and small mechanisms capable of executing menial
 
 Documentation, technical notes, usage examples, and written traces of past schemes.
 
+![iznocorp-section-divider](assets/iznocorp-section-divider.png)
+
 ## Motto
 
 > **Simple, efficient, and slightly megalomaniacal.**
+
+![iznocorp-section-divider](assets/iznocorp-section-divider.png)
 
 ## Contributions
 
@@ -76,8 +92,13 @@ Contributions are welcome, provided they respect the imperial order:
 - document new inventions;
 - do not attempt to become Caliph before Iznogoudatall.
 
+![iznocorp-section-divider](assets/iznocorp-section-divider.png)
+
 ## License
 
 Each repository has its own license.
 
 Any abusive use, software betrayal, or algorithmic coup attempt is your sole responsibility.
+
+![iznocorp-powered-badge](assets/iznocorp-powered-badge.png)
+
